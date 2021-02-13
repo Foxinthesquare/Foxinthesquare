@@ -1,4 +1,4 @@
-### Hi there, I'm Stas - aka [Foxinthesquare][website] 👋
+### Hi there, I'm Stas - aka [Foxinthesquare][website] 🦊👋
 
 ## I'm a Student, Interpreter, Self-Taught Web Developer, and a Small Content Creator!!!
 
@@ -51,11 +51,11 @@
 ---
   
 <!--START_SECTION:activity-->
-1. ❗ simple_stopwatch in [Foxinthesquare/simple_stopwatch](https://github.com/Foxinthesquare/simple_stopwatch)
-2. ❗ dice-game-js in [Foxinthesquare/dice-game-js](https://github.com/Foxinthesquare/dice-game-js)
-3. ❗ GetFit-Girls-Edition in [Foxinthesquare/GetFit-Girls-Edition](https://github.com/Foxinthesquare/GetFit-Girls-Edition)
-4. ❗ nuno-practice-total-recall in [Foxinthesquare/nuno-practice-total-recall](https://github.com/Foxinthesquare/nuno-practice-total-recall)
-5. ❗ pure-html-css-template in [Foxinthesquare/pure-html-css-template](https://github.com/Foxinthesquare/pure-html-css-template)
+1. ⏱ simple_stopwatch in [Foxinthesquare/simple_stopwatch](https://github.com/Foxinthesquare/simple_stopwatch)
+2. 🎲 dice-game-js in [Foxinthesquare/dice-game-js](https://github.com/Foxinthesquare/dice-game-js)
+3. 🏈 GetFit-Girls-Edition in [Foxinthesquare/GetFit-Girls-Edition](https://github.com/Foxinthesquare/GetFit-Girls-Edition)
+4. 🕸 nuno-practice-total-recall in [Foxinthesquare/nuno-practice-total-recall](https://github.com/Foxinthesquare/nuno-practice-total-recall)
+5.  pure-html-css-template in [Foxinthesquare/pure-html-css-template](https://github.com/Foxinthesquare/pure-html-css-template)
 <!--END_SECTION:activity-->
 
 ---
