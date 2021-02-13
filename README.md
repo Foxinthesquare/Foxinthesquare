@@ -60,7 +60,7 @@
 
 ---
 
-<img align="left" alt="Foxinthesquare's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Foxinthesquare&show_icons=true&hide_border=true&theme=gruvbox" />
+<img align="left" alt="Foxinthesquare's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Foxinthesquare&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [website]: https://github.com/Foxinthesquare
 [video]: https://youtu.be/qD_NQLv6Hpg
