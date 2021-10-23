@@ -36,6 +36,8 @@
 
 ---
 
+<a href="https://app.daily.dev/Foxinthesquare"><img src="https://api.daily.dev/devcards/9b133c0abec245678fa58a826ce6ae89.png?r=al9" width="400" alt="Stanislav's Dev Card"/></a>
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
